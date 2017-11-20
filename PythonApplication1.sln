@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{F153D7D3-23FB-4B2A-B01A-1E5B9779FF1A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mypydbg", "mypydbg\mypydbg.pyproj", "{82373385-01EB-425A-BB8F-A604DA1B6757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F153D7D3-23FB-4B2A-B01A-1E5B9779FF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F153D7D3-23FB-4B2A-B01A-1E5B9779FF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82373385-01EB-425A-BB8F-A604DA1B6757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82373385-01EB-425A-BB8F-A604DA1B6757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5939F469-5263-4990-8000-CE135B8CFACF}
+	EndGlobalSection
+EndGlobal
